@@ -2,7 +2,7 @@ package Class;
 
 import java.util.Scanner;
 
-public class RotateMatrix90 {
+public class rotateMatrix90 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
